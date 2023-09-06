@@ -1,0 +1,1 @@
+C:\Users\vikkuma\Desktop\RustProgramming\PlayWithRust\RustCompleteGuide\dataTypes\target\debug\dataTypes.exe: C:\Users\vikkuma\Desktop\RustProgramming\PlayWithRust\RustCompleteGuide\dataTypes\src\main.rs
