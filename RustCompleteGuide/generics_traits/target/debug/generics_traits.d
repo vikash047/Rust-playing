@@ -1,0 +1,1 @@
+C:\Users\vikkuma\Desktop\RustProgramming\PlayWithRust\RustCompleteGuide\generics_traits\target\debug\generics_traits.exe: C:\Users\vikkuma\Desktop\RustProgramming\PlayWithRust\RustCompleteGuide\generics_traits\src\main.rs

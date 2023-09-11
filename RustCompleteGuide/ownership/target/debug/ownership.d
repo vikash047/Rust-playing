@@ -1,0 +1,1 @@
+C:\Users\vikkuma\Desktop\RustProgramming\PlayWithRust\RustCompleteGuide\ownership\target\debug\ownership.exe: C:\Users\vikkuma\Desktop\RustProgramming\PlayWithRust\RustCompleteGuide\ownership\src\main.rs

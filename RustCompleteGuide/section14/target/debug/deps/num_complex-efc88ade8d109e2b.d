@@ -1,0 +1,10 @@
+C:\Users\vikkuma\Desktop\RustProgramming\PlayWithRust\RustCompleteGuide\section14\target\debug\deps\num_complex-efc88ade8d109e2b.rmeta: C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\lib.rs C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\cast.rs C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\pow.rs C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\complex_float.rs
+
+C:\Users\vikkuma\Desktop\RustProgramming\PlayWithRust\RustCompleteGuide\section14\target\debug\deps\libnum_complex-efc88ade8d109e2b.rlib: C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\lib.rs C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\cast.rs C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\pow.rs C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\complex_float.rs
+
+C:\Users\vikkuma\Desktop\RustProgramming\PlayWithRust\RustCompleteGuide\section14\target\debug\deps\num_complex-efc88ade8d109e2b.d: C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\lib.rs C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\cast.rs C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\pow.rs C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\complex_float.rs
+
+C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\lib.rs:
+C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\cast.rs:
+C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\pow.rs:
+C:\Users\vikkuma\.cargo\registry\src\index.crates.io-6f17d22bba15001f\num-complex-0.4.4\src\complex_float.rs:

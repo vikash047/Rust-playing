@@ -1,0 +1,1 @@
+C:\Users\vikkuma\Desktop\RustProgramming\PlayWithRust\RustCompleteGuide\structs_lifetime\target\debug\structs_lifetime.exe: C:\Users\vikkuma\Desktop\RustProgramming\PlayWithRust\RustCompleteGuide\structs_lifetime\src\main.rs
